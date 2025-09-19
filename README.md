@@ -40,4 +40,4 @@ Fraud trends peak in December with 34 fraudulent transactions.
 Over 42% transactions fall under Low Risk, while ~11% are Critical.
 
 📷 Dashboard Preview
-
+https://github.com/Ayushikhodre17/Credit_card_Fraud_Risk_Analysis/blob/main/Credit_card_fraud_risk_Screenshot.png
